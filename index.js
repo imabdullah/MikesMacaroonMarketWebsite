@@ -236,7 +236,7 @@ app.get("/", (req, res) => {
       ">
         <div class="d-flex h-100 align-items-center justify-content-center">
           <div class="text-center text-white">
-            <h1 class="display-3">Welcome to Mike's Macaroon Market!</h1>
+            <h1 class="display-3">Welcome to Mike's Macaroon Market! Updated!</h1>
             <p class="lead">Delicious macaroons made with love.</p>
             <a class="btn btn-primary btn-lg" href="/products" role="button">View Our Products</a>
           </div>
