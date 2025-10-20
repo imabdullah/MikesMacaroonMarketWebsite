@@ -502,7 +502,7 @@ ensureDatabaseExists()
       console.log("Inserted default products.");
     }
     app.listen(port, () => {
-      console.log("test new log");
+      console.log("test new log1");
       console.log(`Server is running on http://localhost:${port}`);
     });
   })
